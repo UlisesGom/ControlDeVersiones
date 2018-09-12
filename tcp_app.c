@@ -5,7 +5,6 @@
  * Author: Sergio Santana <sergiosantana@iteso.mx>
  *
  */
-#include "tcp_app.h"
 
 #include "lwip/opt.h"
 
