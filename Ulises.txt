@@ -2,15 +2,15 @@ funcionChava{
 
 
 #LineaInsetadaPorChava
-
+#LineaInsetadaPorChava_2
 
 }
 
 
 funcionUlises{
 
-#NuevaLineaInsertada
-#LineaInsetadaPorUlises
+
+
 
 
 }
